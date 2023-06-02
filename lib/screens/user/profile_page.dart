@@ -21,7 +21,7 @@ class _ProfilePageState extends State<ProfilePage> {
         child: Column(
           children: [
 
-            AppText("Profile Screen")
+            AppText("Profile Page")
           ],
         ),
       ),
